@@ -1,0 +1,4 @@
+1. This Rust project creates a complex GUI real-time analysis tool for the IS/LM curve in microeconomics, allowing users to visualize and dynamically explore the relationships between interest rates, liquidity, output, and the price level.
+
+
+2. This project is in it's Development Mode and is Raw. However along with time and my skill development process in Rust; This project will get more Sophisticated too. Collaborations and Suggestion offers are welcomed with T&C Applied....
